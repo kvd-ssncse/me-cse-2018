@@ -84,3 +84,16 @@ After the completion of this course, students will be able to:
    on an emerging discipline, Pearson education, 2008.
 6. Richard N. Taylor, Nenad Medvidovic and Eric M. Dashofy, ``Software
    Architecture, Foundations, Theory and Practice'', Wiley 2010.
+   
+** CO PO MAPPING 
+#+NAME: co-po-mapping
+|                |    |PO1 | PO2 | PO3 | PO4 | PO5 | PO6 | PO7 | PO8 | PO9 | PO10 | PO11 | 
+|                |    | K3 | K6  |  K6 |  K6 | K6  |     |     |     |     |      |      |     
+| CO1            | K2 |  3 |  2  |     |  1  |  1  |     |     |     |     |      |      |    
+| CO2            | K3 |  3 |  2  |     |  2  |  2  |     |     |     |     |      |      |  
+| CO3            | K4 |  3 |  3  |     |  2  |  2  |     |     |     |     |      |      |    
+| CO4            | K4 |  3 |  3  |     |  1  |  1  |     |     |     |     |      |      | 
+| CO5            | K4 |  3 |  3  |     |  1  |  1  |     |     |     |     |      |      | 
+| Total          |    | 15 |  13 |     |  6  |  6  |     |     |     |     |      |      |   
+| Course Mapping |    |  3 |  2  |  2  |  2  |  2  |     |     |     |     |      |      | 
+   
